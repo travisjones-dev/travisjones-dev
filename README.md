@@ -1,38 +1,38 @@
 # Travis Jones
-### CS Student @ University of Michigan - College of Engineering. Aspiring Game Developer. Dream Come True Seeker. Custom PC Builder.
----
-## Currently working on: 
-### 3D story game developed in Godot, inspired by a creative idea. Revenge is the theme as a brutal, tragic loss kicks off at the beginning of the story. Love, rich-story, choices-matter, sword-to-sword combat, and yes, revenge. Still in the early stages of development.
----
-## Featured Projects:
-1. 3D-cinematic-game
-2. Frostfell
-3. adventure.py
----
-## Tech/Tools:
-### Languages: Python, C++, Java, TypeScript
-### Engines: Unreal, Godot
-### Web: HTML/CSS, Three.js
----
-## What I'm learning currently:
----
-## Contact:
-- Email: Travisjusa@gmail.com
-- [LinkedIn](www.linkedin.com/in/travis-jones-39188324a)
-- [Website for PC Business](www.jarvistechnologiesinc.com)
 
+CS Engineering student at the **University of Michigan** (B.S.E., May 2028) and part-time DevOps engineer at **PhoenixTeam**. I build games, mostly story-driven 3D in Godot.
 
-<!--
-**travisjones-dev/travisjones-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I also run [Jarvis Technologies](https://www.jarvistechnologiesinc.com), a custom PC building business, and designed and built [its website](https://github.com/travisjones-dev/Jarvis-Tech-Website).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+**[3d-cinematic-game](https://github.com/travisjones-dev/3d-cinematic-game)** · *Godot 4, GDScript*\
+A story-first medieval fantasy RPG with a revenge premise. Component-based interaction system, flag-driven quests and dialogue, AnimationPlayer + Phantom Camera cutscenes, save/load, and 70 automated tests. Vertical slice complete; Zone 1 art pass in progress.
+
+**[frostfell](https://github.com/travisjones-dev/frostfell)** · *JavaScript, Three.js, GLSL*: **[▶ Play in your browser](https://travisjones-dev.github.io/frostfell/frostfell.html)**\
+A Norse-themed 3D action RPG in a single HTML file: melee, bow and spell combat, barrow dungeons, a day/night cycle with aurora, custom shaders, and fully synthesized audio.
+
+**[adventure-game](https://github.com/travisjones-dev/adventure-game)** · *Python, Claude API*\
+A text-based D&D adventure driven by an LLM, using tool-use calls so the model keeps a persistent player inventory across turns.
+
+---
+
+## Tech
+
+- **Languages:** C++, C#, Python, TypeScript, JavaScript, GDScript
+- **Engines:** Godot, Unity, Unreal (learning)
+- **Web & tools:** Three.js, React Native / Expo, Git, HTML/CSS
+
+## Currently learning
+
+Unreal Engine 5 and gameplay programming in C++.
+
+---
+
+## Contact
+
+- Email: travisjusa@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/travis-jones-39188324a)
+- [Portfolio](https://travisjones-dev.github.io/personal-portfolio/)
