@@ -1,6 +1,6 @@
 # Travis Jones
 
-CS Engineering student at the **University of Michigan** (B.S.E., May 2028) and part-time DevOps engineer at **PhoenixTeam**. I build games, mostly story-driven 3D in Godot.
+CS Engineering student at the **University of Michigan** (B.S.E., May 2028) and part-time DevOps engineer at **PhoenixTeam**. I build games, mostly story-driven 3D in Godot. Transitioning to Unreal Engine.
 
 I also run [Jarvis Technologies](https://www.jarvistechnologiesinc.com), a custom PC building business, and designed and built [its website](https://github.com/travisjones-dev/Jarvis-Tech-Website).
 
