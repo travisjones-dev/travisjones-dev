@@ -14,6 +14,9 @@ A story-first medieval fantasy RPG with a revenge premise. Component-based inter
 **[frostfell](https://github.com/travisjones-dev/frostfell)** · *JavaScript, Three.js, GLSL*: **[▶ Play in your browser](https://travisjones-dev.github.io/frostfell/frostfell.html)**\
 A Norse-themed 3D action RPG in a single HTML file: melee, bow and spell combat, barrow dungeons, a day/night cycle with aurora, custom shaders, and fully synthesized audio.
 
+**[cat-platformer](https://github.com/travisjones-dev/cat-platformer)** · *Unity 6, C#*\
+A 2D platformer built solo in an 8-hour game jam. Play as a cat knocking things over to unlock each room: physics-driven toppling, a knock counter, and door-unlock progression. I drew the cats.
+
 **[adventure-game](https://github.com/travisjones-dev/adventure-game)** · *Python, Claude API*\
 A text-based D&D adventure driven by an LLM, using tool-use calls so the model keeps a persistent player inventory across turns.
 
