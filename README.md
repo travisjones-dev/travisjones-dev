@@ -37,5 +37,5 @@ Unreal Engine 5 and gameplay programming in C++.
 ## Contact
 
 - Email: travisjusa@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/travis-jones-39188324a)
+- [LinkedIn](https://www.linkedin.com/in/travis-jones-game-dev)
 - [Portfolio](https://travisjones-dev.github.io/personal-portfolio/)
