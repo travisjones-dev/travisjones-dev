@@ -45,4 +45,4 @@ A text-based D&D adventure driven by an LLM, using tool calls so the model keeps
 ## Contact
 
 - Email: travisjusa@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/travis-jones-game-dev)
+- [LinkedIn](https://www.linkedin.com/in/travis-jones-umich)
